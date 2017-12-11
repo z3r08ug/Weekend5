@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weekend5</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="name">Name:</string>
+    <string name="address">Address:</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="price">Price:</string>
+    <string name="rating">Rating:</string>
+    <string name="website">Website:</string>
+</resources>

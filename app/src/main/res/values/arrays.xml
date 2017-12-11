@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="categories">
+        <item>All Categories</item>
+        <item>Airport</item>
+        <item>Bank</item>
+        <item>Book Store</item>
+        <item>Car Wash</item>
+        <item>Clothing Store</item>
+        <item>Convenience Store</item>
+        <item>Department Store</item>
+        <item>Electronics Store</item>
+        <item>Finance</item>
+        <item>Food</item>
+        <item>Gas Station</item>
+        <item>Hair Care</item>
+        <item>Liquor Store</item>
+        <item>Park</item>
+        <item>Restaurant</item>
+        <item>School</item>
+        <item>Stadium</item>
+    </string-array>
+</resources>
